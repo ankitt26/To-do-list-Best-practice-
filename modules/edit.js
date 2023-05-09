@@ -9,7 +9,6 @@ export default () => {
     if (event.target.classList.contains('description')) {
       const listid = event.target.id;
       const edittask = document.getElementById(listid);
-      // edittask.setAttribute("contenteditable", "true");
 
       tasklist.forEach((value) => {
         const taskId = `desc${value.index}`;

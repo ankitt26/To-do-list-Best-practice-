@@ -125,15 +125,10 @@ Run this command
 
 ### Install
 
-Install this project with:
+Install this project with: 
 
-<!--
-Example command:
-
-```sh
   cd my-project
   npm install
-````
 
 --->
 
