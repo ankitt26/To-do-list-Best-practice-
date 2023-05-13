@@ -3,10 +3,8 @@
 .todo-list {
   border: 2px solid rgb(189, 184, 184);
   border-radius: 5px;
-  box-shadow:
-    0 -28px 20px -20px rgba(0, 0, 0, 0.45),
-    25px 0 20px -20px rgba(0, 0, 0, 0.45),
-    0 25px 20px -20px rgba(0, 0, 0, 0.45),
+  box-shadow: 0 -28px 20px -20px rgba(0, 0, 0, 0.45),
+    25px 0 20px -20px rgba(0, 0, 0, 0.45), 0 25px 20px -20px rgba(0, 0, 0, 0.45),
     -25px 0 20px -20px rgba(0, 0, 0, 0.45);
   margin: 100px auto;
   max-width: 600px;
@@ -36,7 +34,7 @@
   align-items: center;
   padding: 15px 20px;
   font-size: 20px;
-  border-bottom: 1px solid rgb(163, 191, 191);
+  border-bottom: 1px solid rgb(64 88 88);
 }
 
 .description {
@@ -47,7 +45,7 @@
 }
 
 h3 {
-  color: rgb(163, 191, 191);
+  color: rgb(64 88 88);
   font-size: 20px;
   font-weight: 700;
 }
@@ -65,7 +63,7 @@ h3 {
 .clear {
   font-size: 23px;
   font-weight: 800;
-  background-color: beige;
+  background-color: #98efff;
   text-align: center;
   margin: 0 1px;
   padding-top: 10px;
@@ -81,5 +79,5 @@ h3 {
 }
 
 i {
-  color: rgb(163, 191, 191);
+  color: rgb(64 88 88);
 }
